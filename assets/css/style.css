@@ -501,6 +501,7 @@ h6 {
         top: 0;
         left: 0;
         right: 0;
+          background: url('about.jpg');
     }
     #hero h1 {
         font-size: 28px;
