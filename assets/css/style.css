@@ -456,13 +456,13 @@ h6 {
     height: 200px;
     font-weight: 500;
     line-height: 56px;
-    color: #103333;
+    color: #fff;
     font-family: 'Barlow Condensed', sans-serif;
     ;
 }
 
 #hero h2 {
-    color: #4f2f6d;
+    color: #fff;
     margin: 10px 0 0 0;
     font-size: 33px;
 }
@@ -511,7 +511,9 @@ h6 {
         line-height: 24px;
     }
 }
-
+.container{
+    border-radius:50px;
+        Baground-col
 
 /*--------------------------------------------------------------
 # Sections General
