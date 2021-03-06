@@ -503,6 +503,12 @@ h6 {
         right: 0;
           background: url('about.jpg');
     }
+    
+    @media all and (max-width:480px) {
+
+    img {display:block;margin:0 auto;}
+}
+    
     #hero h1 {
         font-size: 28px;
         line-height: 36px;
